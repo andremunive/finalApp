@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">db</string>
+    <string name="pass">Contraseña</string>
+    <string name="seguirC">Seguir Conectado</string>
+    <string name="user">Usuario</string>
+    <string name="acceder">Acceder</string>
+    <string name="grades">Calificaciones</string>
+    <string name="horario">Horario</string>
+    <string name="asignaturas">Asignaturas</string>
+</resources>
