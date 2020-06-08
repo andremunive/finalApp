@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">db</string>
+    <string name="app_name">ST App</string>
     <string name="pass">Contraseña</string>
     <string name="seguirC">Seguir Conectado</string>
     <string name="user">Usuario</string>

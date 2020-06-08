@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000"
+    android:background="@drawable/imgg"
     tools:context=".MainActivity">
 
     <EditText
@@ -15,11 +15,8 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="30dp"
         android:layout_marginRight="32dp"
-        android:backgroundTint="#FFFFFF"
         android:hint="@string/user"
-        android:inputType="text"
-        android:textColor="#FFFFFF"
-        android:textColorHint="#FFFFFF" />
+        android:inputType="text" />
 
     <EditText
         android:id="@+id/passwordTxt"
@@ -29,11 +26,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginLeft="32dp"
         android:layout_marginRight="32dp"
-        android:backgroundTint="#FFFFFF"
         android:hint="@string/pass"
-        android:inputType="textPassword"
-        android:textColor="#FFFFFF"
-        android:textColorHint="#FFFFFF" />
+        android:inputType="textPassword"/>
 
     <CheckBox
         android:id="@+id/stillChck"
@@ -42,10 +36,8 @@
         android:layout_below="@+id/passwordTxt"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
-        android:buttonTint="#FFFFFF"
         android:checked="true"
-        android:text="Seguir conectado"
-        android:textColor="#FFFFFF" />
+        android:text="Seguir conectado"/>
 
 
         <Button
